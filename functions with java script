@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+    <!-- The Header section contains the main title/name -->
+    <header>
+        <h1>Jane Doe</h1>
+        <p>Aspiring Web Developer</p>
+    </header>
+
+    <!-- The Main section holds the core content of the profile -->
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <img src="https://via.placeholder.com/150" alt="Placeholder image of Jane Doe">
+            <p>Hi! I am Jane. I am currently learning how to build websites from scratch. I love solving puzzles, learning new technologies, and writing clean, structured code.</p>
+        </section>
+
+        <section>
+            <h2>My Interests</h2>
+            <!-- An unordered list for bullet points -->
+            <ul>
+                <li>Coding and Web Design</li>
+                <li>Hiking in the mountains</li>
+                <li>Reading science fiction novels</li>
+                <li>Playing board games</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Connect with Me</h2>
+            <!-- An anchor tag linking to an external site -->
+            <p>Check out my projects on <a href="https://github.com/" target="_blank">GitHub</a>.</p>
+        </section>
+    </main>
+
+    <!-- The Footer section for closing information -->
+    <footer>
+        <p>&copy; 2026 Jane Doe. Built with HTML.</p>
+    </footer>
+
+</body>
+</html>
