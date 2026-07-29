@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Profile</title>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>A short sentence about yourself.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Hi! I'm a beginner web developer who enjoys learning HTML,
+                CSS, and JavaScript. I'm excited to build websites and improve
+                my programming skills.
+            </p>
+        </section>
+
+        <section>
+            <h2>My Interests</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Reading</li>
+                <li>Music</li>
+                <li>Gaming</li>
+                <li>Learning New Technologies</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>GitHub</h2>
+            <p>
+                Visit my GitHub:
+                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+                    https://github.com/yourusername
+                </a>
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Your Name</p>
+    </footer>
+
+</body>
+</html>
